@@ -9,6 +9,6 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: Dang Trung Hieu 
+* Student Name: Dang Trung Hieu
 * Student ID: 22BA13131
 
